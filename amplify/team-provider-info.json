@@ -1,0 +1,15 @@
+{
+    "dev": {
+        "awscloudformation": {
+            "AuthRoleName": "amplify-gameofthrones-api-dev-201040-authRole",
+            "UnauthRoleArn": "arn:aws:iam::471852738351:role/amplify-gameofthrones-api-dev-201040-unauthRole",
+            "AuthRoleArn": "arn:aws:iam::471852738351:role/amplify-gameofthrones-api-dev-201040-authRole",
+            "Region": "us-east-1",
+            "DeploymentBucketName": "amplify-gameofthrones-api-dev-201040-deployment",
+            "UnauthRoleName": "amplify-gameofthrones-api-dev-201040-unauthRole",
+            "StackName": "amplify-gameofthrones-api-dev-201040",
+            "StackId": "arn:aws:cloudformation:us-east-1:471852738351:stack/amplify-gameofthrones-api-dev-201040/350323a0-215f-11eb-b936-0e9878534861",
+            "AmplifyAppId": "do48vm19ftz89"
+        }
+    }
+}
